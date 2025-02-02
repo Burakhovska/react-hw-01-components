@@ -2,7 +2,7 @@
   "name": "hw1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Burakhovska.github.io/react-hw-01-components",
+  "homepage": "https://Burakhovska.github.io/react-hw-02-feedback.git",
   "dependencies": {
     "cra-template": "1.2.0",
     "prop-types": "^15.8.1",

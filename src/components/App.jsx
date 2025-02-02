@@ -1,10 +1,15 @@
-import {Card} from './Card/Card'
-import { Statistics } from './Statistics/Statistics'
-import { FriendList } from './FriendList/FriendList'
-import { TransactionHistory } from './TransactionHistory/TransactionHistory'
+
+import { Feedback } from './Feedback/Feedback'
+
 
 const App = () => {
-    return [<Card />, <Statistics />, <FriendList />, <TransactionHistory />]
+    return(
+        <div className='container'>
+        <Feedback />
+       </div>
+    )
+
+
 }
 
 
